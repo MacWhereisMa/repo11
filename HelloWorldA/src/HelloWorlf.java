@@ -7,5 +7,7 @@ public class HelloWorlf {
 
 int b = 100;
 
+int d = 1000;
+
     }
 }
